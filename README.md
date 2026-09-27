@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Vishma Jayakody</h1>
   <h3>Associate Software Engineer | Full-Stack Developer</h3>
-  <p>Backend • Full Stack • Cloud</p>
-  
+  <p>Backend • Full Stack • Cloud • Machine Learning</p>
 </div>
 
 ---
@@ -13,71 +12,73 @@
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <br>
-  <!-- Databases & Cloud -->
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <!-- Data Science & Machine Learning -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <br>
+  <!-- Cloud & Databases -->
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
 ---
 
 ## 🚀 Project Showcase
 
-Here are a few of my favorite projects. Feel free to check out the code and live demos!
-
 <table>
   <tr>
     <th>Project</th>
     <th>Description</th>
     <th>Technologies</th>
-    <th>Links</th>
   </tr>
   <tr>
-    <td><b>Project Name 1</b></td>
-    <td>A brief, 1-2 sentence description of what this project does and the problem it solves.</td>
-    <td>.NET<br>React<br>Oracle</td>
-    <td><a href="https://github.com/vishma-jayakody/project1">GitHub</a><br><a href="https://live-demo-link.com">Live Demo</a></td>
+    <td><b>SATD Detection in Deep Learning Frameworks</b></td>
+    <td>A machine learning classification model designed to automatically identify and categorize Self-Admitted Technical Debt (SATD) within the source code comments of complex deep learning frameworks. The objective is to proactively flag technical debt to improve code maintainability and long-term project health.</td>
+    <td>Python<br>TensorFlow<br>Scikit-learn<br>Pandas</td>
   </tr>
   <tr>
-    <td><b>Project Name 2</b></td>
-    <td>An AI-powered tool or backend service description highlighting your contribution.</td>
-    <td>Python<br>Azure<br>SQL</td>
-    <td><a href="https://github.com/vishma-jayakody/project2">GitHub</a></td>
-  </tr>
-  <tr>
-    <td><b>Project Name 3</b></td>
-    <td>A web application focused on high performance and clean UI/UX.</td>
-    <td>TypeScript<br>React<br>.NET</td>
-    <td><a href="https://github.com/vishma-jayakody/project3">GitHub</a></td>
+    <td><b>Peerlit: Academic Collaboration Hub</b></td>
+    <td>An interactive networking platform that intelligently matches students and facilitates collaborative, peer-to-peer knowledge sharing. Moving beyond a standard search tool, it provides a structured environment for users with aligned educational goals to connect and coordinate targeted academic sessions.</td>
+    <td>Flutter<br>Firebase<br>Node.js</td>
   </tr>
 </table>
 
 ---
 
-## 📚 What I'm Currently Learning
+## 📚 Currently Learning
 
-I am always looking to improve my skills and stay up-to-date with modern tech. Right now, I'm focusing on:
-- **Cloud Architecture** (Azure)
-- **System Design & Distributed Systems**
-- **Machine Learning Integration**
+- **Cloud Architecture & Distributed Systems**
+- **Advanced Machine Learning Integration**
+- **System Design**
 
 ---
 
 ## 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
+  <a href="https://www.linkedin.com/in/vishmaj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR.EMAIL@DOMAIN.COM">
+  <a href="mailto:vishmajayakoy113@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
 </p>
