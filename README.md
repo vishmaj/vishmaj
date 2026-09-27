@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Languages & Frameworks -->
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Project Showcase
+## Project Showcase
 
 <table>
   <tr>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - **Cloud Architecture & Distributed Systems**
 - **Advanced Machine Learning Integration**
@@ -77,7 +77,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vishmaj/" target="_blank">
