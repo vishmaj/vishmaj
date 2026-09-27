@@ -1,6 +1,11 @@
 <div align="center">
-  <h1>Hi 👋, I'm Vishma Jayakody</h1>
-  <h3>Associate Software Engineer | Full-Stack Developer</h3>
+  <h1>Hi, I'm Vishma Jayakody</h1>
+  
+  <!-- Dynamic Typing Text -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Greetings+from+a+repository+far,+far+away...;May+the+Source+be+with+you." alt="Typing SVG" />
+  </a>
+  
   <p>Backend • Full Stack • Cloud • Machine Learning</p>
 </div>
 
